@@ -13,7 +13,7 @@ Each such Whatsapp conversation on Telegram has the prefix "[WA]" in the title.
    
    ```bash
     sudo apt-get install git
-    git clone https://github.com/Neolysion/WTT-Bridge.git WTT-Bridge
+    git clone https://github.com/Sh-Jil/WTT-Bridge.git WTT-Bridge
     cd WTT-Bridge
    ```
 
